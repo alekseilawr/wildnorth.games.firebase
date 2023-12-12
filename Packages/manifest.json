@@ -1,0 +1,9 @@
+﻿{
+  "dependencies": {
+    "com.google.firebase.analytics": "file:../GooglePackages/com.google.firebase.analytics-11.6.0.tgz",
+    "com.google.firebase.app": "file:../GooglePackages/com.google.firebase.app-11.6.0.tgz",
+    "com.google.firebase.crashlytics": "file:../GooglePackages/com.google.firebase.crashlytics-11.6.0.tgz",
+    "com.google.firebase.messaging": "file:../com.google.firebase.messaging-11.6.0.tgz",
+    "com.google.firebase.remote-config": "file:../com.google.firebase.remote-config-11.6.0.tgz",
+  }
+}
