@@ -1,5 +1,12 @@
-{
+﻿{
+  "name": "com.wildnorth.games.firebase",
+  "displayName": "",
+  "version": "1.0.0",
+  "unity": "",
+  "unityRelease": "",
+  "description": "",
   "dependencies": {
-    "com.wildnorth.games.firebase": "file:../GooglePackages/Assets.tar.gz",
+    "com.wildnorth.games.firebase": "file:../GooglePackages/Assets.tar.gz"
   }
 }
+
